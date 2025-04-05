@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through my email:- rishijha2022@vitbhopal.ac.in
+- 📫 You can reach me through my email: rishijha0910@gmail
+.com
 - \
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
