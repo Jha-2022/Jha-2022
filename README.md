@@ -14,10 +14,14 @@
 ---
 ```
 
-name: Arushi Malhotra
-building: Code Social Community
-lookingFor: (internships(2026))
-
+name: Rishi Jha
+education:
+  [
+    "Currently Pursuing: Bachelors in Computer Science",
+    "{from: VIT Bhopal University}",
+    
+    
+]
 <!--
 **Jha-2022/Jha-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
