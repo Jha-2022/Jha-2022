@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Radhe%20Radhe!&fontSize=90&textAlign=center)
 
-## Hi there 👋
+##
+<h2 align="center">Let's Connect!</h2>
 
 <!--
 **Jha-2022/Jha-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
