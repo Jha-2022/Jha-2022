@@ -19,19 +19,22 @@ education:
   [
     "Currently Pursuing: Bachelors in Computer Science",
     "{from: VIT Bhopal University}",
-    
-    
+
+    "Internship: SDE intern at BlueStock.in" 
+    "further looking for an opportunity in the field of AI"
 ]
+
+
 <!--
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on my own automation agent named as Autoprime
+- 🌱 I’m currently learning Agentic AI with 5 Day Intensive Agentic bootcamp from google(https://www.kaggle.com/learn-guide/5-day-agents)
+- 👯 I’m looking to collaborate on cocoindex repo from cocoindex.io
+- 🤔 I’m looking for help with ,
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: I could be mailed at rishijha0910@gmail.com, linkedin:->
+- 😄 Pronouns:he, him 👦
+- ⚡ Fun fact:
 -->
